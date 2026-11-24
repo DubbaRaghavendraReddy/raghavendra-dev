@@ -52,8 +52,8 @@ Daily Routine: 6 hours/day of hands-on coding, security labs, infrastructure pra
 
 📫 Connect With Me
 
-GitHub: github.com/DubbaRaghavendraReddy
+GitHub: [github.com/DubbaRaghavendraReddy](https://github.com/DubbaRaghavendraReddy)
 
-LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/dubba-raghavendra-reddy-0a1b46451/)
+LinkedIn: [linkedin.com/in/DubbaRaghavendraReddy](https://www.linkedin.com/in/dubba-raghavendra-reddy-0a1b46451/)
 
 Email: dubbaraghavendrareddy28@gmail.com
